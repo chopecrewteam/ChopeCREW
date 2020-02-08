@@ -1,0 +1,275 @@
+﻿MAJ Ete = Ete 2010
+MAJ Hiver = Hiver 2011
+
+Depart ; Arrivee ; Ete ; Hiver ; N de vol (; cargo)
+
+CDG ; ATL ; 09h15 ; 00h00
+ATL ; CDG ; 08h20 ; 00h00
+
+CDG ; BKK ; 00h00 ; 10h50
+BKK ; CDG ; 00h00 ; 12h25
+
+CDG ; BOS ; 07h25 ; 07h35
+BOS ; CDG ; 06h35 ; 06h30
+
+CDG ; CCS ; 09h30 ; 09h35
+CCS ; CDG ; 09h05 ; 09h00
+
+CDG ; DEL ; 08h10 ; 08h10
+DEL ; CDG ; 08h45 ; 08h50
+
+CDG ; GIG ; 11h10 ; 11h10
+GIG ; CDG ; 10h45 ; 10h45
+
+CDG ; HAV ; 09h45 ; 10h10 ; AF3532
+HAV ; CDG ; 09h00 ; 08h50 ; AF3537
+HAV ; CDG ; 00H00 ; 08h50 ; AF3539
+
+CDG ; HKG ; 11h45 ; 00h00
+HKG ; CDG ; 12h50 ; 00h00
+
+CDG ; JFK ; 00h00 ; 08h00 ; AF 006
+JFK ; CDG ; 00h00 ; 06h55 ; AF 007
+CDG ; JFK ; 07h55 ; 07h55 ; AF 008
+JFK ; CDG ; 06h55 ; 06h55 ; AF 009
+CDG ; JFK ; 08h15 ; 08h15 ; AF 010
+JFK ; CDG ; 07h15 ; 07h05 ; AF 011
+
+CDG ; JNB ; 10h30 ; 10h30
+JNB ; CDG ; 10h30 ; 10h35
+
+CDG ; LAX ; 11h30 ; 11h30
+LAX ; CDG ; 10h30 ; 10h35
+
+CDG ; MEX ; 11h35 ; 11h55
+MEX ; CDG ; 10h30 ; 10h10
+
+CDG ; MIA ; 09h30 ; 09h55
+MIA ; CDG ; 08h35 ; 08h20
+
+CDG ; MRU ; 11h10 ; 11h00 ; AF3592
+MRU ; CDG ; 11h20 ; 11h25 ; AF3591
+MRU ; CDG ; 00h00 ; 11h30 ; AF3593
+
+CDG ; NRT ; 11h35 ; 11h45
+
+CDG ; PEK ; 09h40 ; 00h00
+PEK ; CDG ; 10h25 ; 00h00
+
+CDG ; PUJ ; 08h55 ; 09h00
+PUJ ; CDG ; 08h20 ; 08h25
+
+CDG ; PTP ; 00h00 ; 08h40
+PTP ; CDG ; 00h00 ; 07h55
+
+CDG ; SDQ ; 09h10 ; 09h10
+SDQ ; CDG ; 08h30 ; 08h25
+
+CDG ; SGN ; 00h00 ; 11h30
+SGN ; CDG ; 00h00 ; 12h55
+
+CDG ; SFO ; 11h15 ; 00h00
+SFO ; CDG ; 10h30 ; 00h00
+
+CDG ; YUL ; 07h25 ; 07h25 ; AF 346
+YUL ; CDG ; 06h40 ; 06h45 ; AF 347
+CDG ; YUL ; 07h25 ; 07h25 ; AF 344
+YUL ; CDG ; 06h40 ; 06h35 ; AF 345
+
+CDG ; YYZ ; 08h00 ; 00h00
+YYZ ; CDG ; 07h10 ; 00h00
+
+ORY ; CAY ; 08h30 ; 00h00
+CAY ; ORY ; 08h15 ; 00h00
+
+ORY ; FDF ; 08h25 ; 08h40
+FDF ; ORY ; 08h00 ; 07h50
+
+ORY ; PTP ; 08h35 ; 08h30
+PTP ; ORY ; 07h50 ; 07h50
+
+ORY ; RUN ; 10h50 ; 10h40
+RUN ; ORY ; 11h05 ; 11h25
+
+BKK ; HAN ; 00h00 ; 01h45
+HAN ; BKK ; 00h00 ; 01h55
+
+BKK ; SGN ; 00h00 ; 01h35
+SGN ; BKK ; 00h00 ; 01h25
+
+PUJ ; SDQ ; 00h50 ; 00h45
+
+LAX ; PPT ; 08h05 ; 08h15
+PPT ; LAX ; 08h00 ; 07h55
+
+ABJ ; CDG ; 06h10 ; 00h00 ; ; cargo
+ABJ ; CMN ; 04h15 ; 00h00 ; ; cargo
+ABJ ; NKC ; 02h55 ; 02h55 ; ; cargo
+ACC ; CDG ; 00h00 ; 06h05 ; ; cargo
+ALG ; ABJ ; 00h00 ; 04h45 ; ; cargo
+ALG ; COO ; 04h50 ; 04h50 ; ; cargo
+ALG ; NDJ ; 03h45 ; 03h50 ; ; cargo
+ALG ; NKC ; 03h45 ; 00h00 ; ; cargo
+ATL ; JFK ; 02h15 ; 02h10 ; ; cargo
+AUH ; CDG ; 07h15 ; 00h00 ; ; cargo
+BAH ; BKK ; 06h40 ; 00h00 ; ; cargo
+BAH ; CAI ; 03h00 ; 00h00 ; ; cargo
+BAH ; CDG ; 06h40 ; 06h55 ; ; cargo
+BAH ; DAC ; 05h15 ; 04h45 ; ; cargo
+BAH ; HKG ; 08h00 ; 07h15 ; ; cargo
+BGF ; BZV ; 01h45 ; 01h40 ; ; cargo
+BGF ; CDG ; 06h35 ; 00h00 ; ; cargo
+BKK ; BAH ; 06h30 ; 00h00 ; ; cargo
+BKK ; CDG ; 11h55 ; 12h35 ; ; cargo
+BKK ; DAC ; 02h25 ; 00h00 ; ; cargo
+BKO ; CDG ; 00h00 ; 07h35 ; ; cargo
+BKO ; CMN ; 03h00 ; 03h15 ; ; cargo
+BLR ; DEL ; 02h35 ; 00h00 ; ; cargo
+BOM ; HKG ; 00h00 ; 05h10 ; ; cargo
+BZV ; BGF ; 01h55 ; 00h00 ; ; cargo
+BZV ; CDG ; 07h30 ; 07h30 ; ; cargo
+BZV ; NBO ; 00h00 ; 03h30 ; ; cargo
+BZV ; PHC ; 00h00 ; 02h00 ; ; cargo
+CAI ; BAH ; 02h50 ; 00h00 ; ; cargo
+CAI ; CDG ; 04h30 ; 00h00 ; ; cargo
+CAI ; JED ; 02h00 ; 02h00 ; ; cargo
+CAI ; RUN ; 07h35 ; 07h30 ; ; cargo
+CAN ; CDG ; 12h30 ; 12h50 ; ; cargo
+CAN ; PEK ; 00h00 ; 02h50 ; ; cargo
+CAY ; EZE ; 05h55 ; 06h05 ; ; cargo
+CAY ; GRU ; 00h00 ; 04h20 ; ; cargo
+CDG ; ALG ; 02h10 ; 02h10 ; ; cargo
+CDG ; ATL ; 09h10 ; 09h35 ; ; cargo
+CDG ; CAI ; 04h10 ; 04h15 ; ; cargo
+CDG ; CAN ; 11h30 ; 11h35 ; ; cargo
+CDG ; CAY ; 08h40 ; 08h50 ; ; cargo
+CDG ; DKR ; 05h35 ; 05h35 ; ; cargo
+CDG ; DMM ; 06h00 ; 05h50 ; ; cargo
+CDG ; DXB ; 06h35 ; 06h30 ; ; cargo
+CDG ; GRU ; 11h20 ; 11h40 ; ; cargo
+CDG ; GYD ; 04h55 ; 04h55 ; ; cargo
+CDG ; HKG ; 11h35 ; 11h25 ; ; cargo
+CDG ; ICN ; 10h50 ; 10h45 ; ; cargo
+CDG ; JFK ; 08h00 ; 08h20 ; ; cargo
+CDG ; JIB ; 06h50 ; 06h45 ; ; cargo
+CDG ; KIX ; 11h45 ; 11h40 ; ; cargo
+CDG ; KWI ; 05h40 ; 05h35 ; ; cargo
+CDG ; LOS ; 05h55 ; 00h00 ; ; cargo
+CDG ; MEX ; 11h20 ; 11h55 ; ; cargo
+CDG ; MJI ; 03h05 ; 03h05 ; ; cargo
+CDG ; NDJ ; 05h20 ; 05h30 ; ; cargo
+CDG ; NIM ; 05h05 ; 05h10 ; ; cargo
+CDG ; NRT ; 11h35 ; 11h45 ; ; cargo
+CDG ; OPO ; 02h00 ; 02h10 ; ; cargo
+CDG ; ORD ; 08h40 ; 08h55 ; ; cargo
+CDG ; PEK ; 09h50 ; 09h50 ; ; cargo
+CDG ; PVG ; 11h00 ; 11h05 ; ; cargo
+CDG ; TIP ; 03h00 ; 02h55 ; ; cargo
+CDG ; TUN ; 02h25 ; 02h20 ; ; cargo
+CDG ; ZAZ ; 01h50 ; 01h50 ; ; cargo
+CMN ; CDG ; 02h50 ; 02h55 ; ; cargo
+CMN ; OPO ; 01h45 ; 00h00 ; ; cargo
+COO ; ABJ ; 01h30 ; 00h00 ; ; cargo
+COO ; BKO ; 00h00 ; 02h15 ; ; cargo
+DAC ; BAH ; 05h20 ; 00h00 ; ; cargo
+DAC ; CDG ; 10h35 ; 00h00 ; ; cargo
+DAC ; DXB ; 04h50 ; 05h20 ; ; cargo
+DEL ; CDG ; 08h50 ; 09h00 ; ; cargo
+DFW ; CDG ; 09h05 ; 08h50 ; ; cargo
+DKR ; CDG ; 05h20 ; 05h30 ; ; cargo
+DKR ; MVD ; 08h20 ; 08h30 ; ; cargo
+DLA ; CDG ; 06h25 ; 00h00 ; ; cargo
+DLA ; NDJ ; 01h50 ; 00h00 ; ; cargo
+DMM ; BAH ; 00h45 ; 00h00 ; ; cargo
+DMM ; BLR ; 04h00 ; 00h00 ; ; cargo
+DMM ; DXB ; 01h25 ; 01h20 ; ; cargo
+DMM ; HKG ; 00h00 ; 07h20 ; ; cargo
+DUB ; CDG ; 01h40 ; 01h40 ; ; cargo
+DXB ; BKK ; 06h25 ; 05h50 ; ; cargo
+DXB ; BOM ; 00h00 ; 02h45 ; ; cargo
+DXB ; CAN ; 06h30 ; 00h00 ; ; cargo
+DXB ; CDG ; 07h05 ; 07h20 ; ; cargo
+DXB ; DAC ; 04h30 ; 00h00 ; ; cargo
+DXB ; HAN ; 00h00 ; 05h45 ; ; cargo
+DXB ; HKG ; 06h50 ; 06h55 ; ; cargo
+DXB ; SGN ; 07h10 ; 06h40 ; ; cargo
+DXB ; SIN ; 07h40 ; 00h00 ; ; cargo
+EZE ; CDG ; 12h50 ; 00h00 ; ; cargo
+EZE ; DKR ; 08h10 ; 08h05 ; ; cargo
+EZE ; GRU ; 02h35 ; 02h35 ; ; cargo
+GDL ; CDG ; 10h40 ; 10h25 ; ; cargo
+GRU ; CDG ; 11h05 ; 11h05 ; ; cargo
+GRU ; EZE ; 02h55 ; 00h00 ; ; cargo
+GRU ; MVD ; 02h35 ; 00h00 ; ; cargo
+GRU ; ZAZ ; 09h50 ; 00h00 ; ; cargo
+GYD ; BKK ; 06h30 ; 06h25 ; ; cargo
+GYD ; HKG ; 08h00 ; 00h00 ; ; cargo
+GYD ; PVG ; 07h50 ; 07h40 ; ; cargo
+HAN ; HKG ; 00h00 ; 01h50 ; ; cargo
+HKG ; AUH ; 08h40 ; 00h00 ; ; cargo
+HKG ; BAH ; 08h05 ; 09h05 ; ; cargo
+HKG ; CDG ; 12h45 ; 13h10 ; ; cargo
+HKG ; SVO ; 09h45 ; 10h15 ; ; cargo
+IAH ; CDG ; 09h20 ; 09h00 ; ; cargo
+ICN ; CDG ; 11h50 ; 12h05 ; ; cargo
+JED ; RUN ; 06h05 ; 06h10 ; ; cargo
+JFK ; CDG ; 07h00 ; 07h00 ; ; cargo
+JIB ; RUN ; 04h40 ; 04h40 ; ; cargo
+KIX ; CDG ; 12h35 ; 12h35 ; ; cargo
+KWI ; DXB ; 01h35 ; 01h35 ; ; cargo
+KWI ; HKG ; 08h35 ; 07h40 ; ; cargo
+KWI ; MAA ; 04h30 ; 00h00 ; ; cargo
+LOS ; ACC ; 00h00 ; 01h10 ; ; cargo
+LOS ; CDG ; 06h05 ; 06h00 ; ; cargo
+LOS ; DLA ; 01h35 ; 00h00 ; ; cargo
+MAA ; DEL ; 02h50 ; 00h00 ; ; cargo
+MEX ; DFW ; 02h30 ; 02h20 ; ; cargo
+MEX ; GDL ; 01h15 ; 01h20 ; ; cargo
+MEX ; IAH ; 02h10 ; 02h15 ; ; cargo
+MJI ; BZV ; 05h10 ; 00h00 ; ; cargo
+MJI ; NDJ ; 03h15 ; 03h15 ; ; cargo
+MVD ; EZE ; 00h55 ; 00h55 ; ; cargo
+NBO ; CDG ; 08h00 ; 08h15 ; ; cargo
+NDJ ; BGF ; 01h45 ; 01h30 ; ; cargo
+NDJ ; CDG ; 05h35 ; 00h00 ; ; cargo
+NDJ ; LOS ; 02h10 ; 02h20 ; ; cargo
+NDJ ; NIM ; 00h00 ; 02h25 ; ; cargo
+NDJ ; PHC ; 01h55 ; 02h15 ; ; cargo
+NDJ ; PNR ; 02h40 ; 00h00 ; ; cargo
+NIM ; BKO ; 01h55 ; 00h00 ; ; cargo
+NIM ; COO ; 00h00 ; 01h30 ; ; cargo
+NIM ; OUA ; 00h55 ; 01h00 ; ; cargo
+NKC ; ABJ ; 02h50 ; 00h00 ; ; cargo
+NKC ; CDG ; 05h00 ; 00h00 ; ; cargo
+NKC ; CMN ; 00h00 ; 02h45 ; ; cargo
+NRT ; CDG ; 12h20 ; 12h30 ; ; cargo
+NRT ; ICN ; 02h30 ; 02h45 ; ; cargo
+OPO ; CDG ; 02h05 ; 00h00 ; ; cargo
+OPO ; MEX ; 10h35 ; 11h15 ; ; cargo
+ORD ; CDG ; 07h45 ; 07h40 ; ; cargo
+ORD ; DFW ; 02h15 ; 02h20 ; ; cargo
+ORD ; DUB ; 06h50 ; 07h00 ; ; cargo
+ORD ; IAH ; 02h25 ; 02h35 ; ; cargo
+ORD ; JFK ; 00h00 ; 02h00 ; ; cargo
+ORD ; PIK ; 07h00 ; 07h00 ; ; cargo
+ORD ; SNN ; 06h40 ; 06h40 ; ; cargo
+OUA ; BKO ; 01h15 ; 01h15 ; ; cargo
+PEK ; CDG ; 10h25 ; 10h45 ; ; cargo
+PHC ; CDG ; 00h00 ; 06h10 ; ; cargo
+PHC ; CMN ; 04h35 ; 04h55 ; ; cargo
+PIK ; CDG ; 01h45 ; 01h45 ; ; cargo
+PNR ; DLA ; 01h55 ; 00h00 ; ; cargo
+PVG ; CDG ; 12h10 ; 12h25 ; ; cargo
+RUN ; NBO ; 04h00 ; 03h55 ; ; cargo
+RUN ; TNR ; 01h40 ; 01h35 ; ; cargo
+SGN ; BKK ; 01h30 ; 01h20 ; ; cargo
+SIN ; BKK ; 02h25 ; 00h00 ; ; cargo
+SNN ; CDG ; 01h45 ; 01h45 ; ; cargo
+SVO ; CDG ; 03h45 ; 03h45 ; ; cargo
+TIP ; NDJ ; 03h00 ; 03h10 ; ; cargo
+TNR ; NBO ; 03h05 ; 03h00 ; ; cargo
+TUN ; BGF ; 04h40 ; 04h45 ; ; cargo
+TUN ; CAI ; 02h50 ; 03h05 ; ; cargo
+TUN ; NDJ ; 04h05 ; 00h00 ; ; cargo
+ZAZ ; BAH ; 05h55 ; 05h50 ; ; cargo
+ZAZ ; CDG ; 01h45 ; 00h00 ; ; cargo

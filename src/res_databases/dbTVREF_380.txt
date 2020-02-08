@@ -1,0 +1,38 @@
+﻿MAJ Ete = Ete 2016
+MAJ Hiver = Hiver 2016/2017
+
+S ; CDG ; JFK ; 08h10 ; AF 006
+S ; JFK ; CDG ; 07h25 ; AF 007
+S ; CDG ; LAX ; 11h30 ; AF 066
+S ; LAX ; CDG ; 10h50 ; AF 065
+S ; CDG ; JNB ; 10h35 ; AF 990
+S ; JNB ; CDG ; 10h40 ; AF 995
+S ; CDG ; SFO ; 11h20 ; AF 084
+S ; SFO ; CDG ; 10h40 ; AF 083
+S ; CDG ; PVG ; 11h05 ; AF 116
+S ; PVG ; CDG ; 12h10 ; AF 111
+S ; CDG ; IAD ; 08h20 ; AF 054
+S ; IAD ; CDG ; 07h30 ; AF 055
+S ; CDG ; HKG ; 11h40 ; AF 188
+S ; HKG ; CDG ; 12h55 ; AF 185
+S ; CDG ; ABJ ; 06h15 ; AF 702
+S ; ABJ ; CDG ; 06h20 ; AF 703
+S ; CDG ; MEX ; 11h50 ; AF 178
+S ; MEX ; CDG ; 10h45 ; AF 183
+
+W ; CDG ; LAX ; 11h40
+W ; LAX ; CDG ; 10h45
+W ; CDG ; JFK ; 08h25 ; AF 006
+W ; JFK ; CDG ; 07h10 ; AF 007
+W ; CDG ; JNB ; 10h45 ; AF 990
+W ; JNB ; CDG ; 10h45 ; AF 995
+W ; CDG ; PVG ; 11h05 ; AF 116
+W ; PVG ; CDG ; 12h45 ; AF 111
+W ; CDG ; HKG ; 11h45 ; AF 188
+W ; HKG ; CDG ; 13h15 ; AF 185
+W ; CDG ; ABJ ; 06h20 ; AF 702
+W ; ABJ ; CDG ; 06h25 ; AF 703
+W ; CDG ; MIA ; 10h05 ; AF 090
+W ; MIA ; CDG ; 08h30 ; AF 099
+W ; CDG ; MEX ; 12h15 ; AF 178
+W ; MEX ; CDG ; 10h15 ; AF 179

@@ -1,0 +1,314 @@
+﻿MAJ = 01/11/2009
+
+IKV = 0.3349
+HABILLEMENT = 38.18
+
+PrimeCcMc = 166.92
+PrimeCcLc = 83.46
+
+PrimeCcpCl2 = 271.25
+PrimeCcpCl1 = 386.01
+PrimeCcpCl0 = 469.48
+
+FixeHotEch1Cla5 = 867.97
+FixeHotEch1Cla4 = 929.35
+FixeHotEch1Cla3 = 962.17
+FixeHotEch1Cla2 = 1089.55
+FixeHotEch1Cla1 = 1206.13
+FixeHotEch1Cla0 = 1254.36
+
+FixeHotEch2Cla5 = 881.18
+FixeHotEch2Cla4 = 945.73
+FixeHotEch2Cla3 = 979.03
+FixeHotEch2Cla2 = 1108.75
+FixeHotEch2Cla1 = 1227.51
+FixeHotEch2Cla0 = 1277.93
+
+FixeHotEch3Cla5 = 977.38
+FixeHotEch3Cla4 = 1049.37
+FixeHotEch3Cla3 = 1085.90
+FixeHotEch3Cla2 = 1231.02
+FixeHotEch3Cla1 = 1363.57
+FixeHotEch3Cla0 = 1428.60
+
+FixeHotEch4Cla5 = 996.03
+FixeHotEch4Cla4 = 1069.39
+FixeHotEch4Cla3 = 1106.68
+FixeHotEch4Cla2 = 1254.92
+FixeHotEch4Cla1 = 1390.14
+FixeHotEch4Cla0 = 1457.85
+
+FixeHotEch5Cla5 = 1051.97
+FixeHotEch5Cla4 = 1129.59
+FixeHotEch5Cla3 = 1168.68
+FixeHotEch5Cla2 = 1326.95
+FixeHotEch5Cla1 = 1469.87
+FixeHotEch5Cla0 = 1545.44
+
+FixeHotEch6Cla5 = 1070.62
+FixeHotEch6Cla4 = 1149.14
+FixeHotEch6Cla3 = 1189.56
+FixeHotEch6Cla2 = 1351.11
+FixeHotEch6Cla1 = 1496.38
+FixeHotEch6Cla0 = 1574.70
+
+FixeHotEch7Cla5 = 1089.27
+FixeHotEch7Cla4 = 1169.45
+FixeHotEch7Cla3 = 1210.66
+FixeHotEch7Cla2 = 1375.36
+FixeHotEch7Cla1 = 1523.03
+FixeHotEch7Cla0 = 1603.90
+
+FixeHotEch8Cla5 = 1107.91
+FixeHotEch8Cla4 = 1189.62
+FixeHotEch8Cla3 = 1231.78
+FixeHotEch8Cla2 = 1399.47
+FixeHotEch8Cla1 = 1549.55
+FixeHotEch8Cla0 = 1633.24
+
+FixeHotEch9Cla5 = 1126.58
+FixeHotEch9Cla4 = 1252.90
+FixeHotEch9Cla3 = 1297.15
+FixeHotEch9Cla2 = 1474.61
+FixeHotEch9Cla1 = 1632.02
+FixeHotEch9Cla0 = 1723.92
+
+FixeHotEch10Cla5 = 1145.22
+FixeHotEch10Cla4 = 1274.58
+FixeHotEch10Cla3 = 1319.80
+FixeHotEch10Cla2 = 1500.42
+FixeHotEch10Cla1 = 1660.37
+FixeHotEch10Cla0 = 1755.11
+
+FixeCcEch1Cla2 = 1409.15
+FixeCcEch1Cla1 = 1477.16
+FixeCcEch1Cla0 = 1547.21
+
+FixeCcEch2Cla2 = 1438.91
+FixeCcEch2Cla1 = 1509.95
+FixeCcEch2Cla0 = 1583.34
+
+FixeCcEch3Cla2 = 1498.44
+FixeCcEch3Cla1 = 1575.55
+FixeCcEch3Cla0 = 1655.55
+
+FixeCcEch4Cla2 = 1528.12
+FixeCcEch4Cla1 = 1608.35
+FixeCcEch4Cla0 = 1691.70
+
+FixeCcEch5Cla2 = 1617.26
+FixeCcEch5Cla1 = 1706.96
+FixeCcEch5Cla0 = 1800.12
+
+FixeCcEch6Cla2 = 1646.96
+FixeCcEch6Cla1 = 1739.90
+FixeCcEch6Cla0 = 1836.33
+
+FixeCcEch7Cla2 = 1676.72
+FixeCcEch7Cla1 = 1772.70
+FixeCcEch7Cla0 = 1872.44
+
+FixeCcEch8Cla2 = 1706.33
+FixeCcEch8Cla1 = 1805.64
+FixeCcEch8Cla0 = 1908.63
+
+FixeCcEch9Cla2 = 1736.01
+FixeCcEch9Cla1 = 1838.36
+FixeCcEch9Cla0 = 1944.69
+
+FixeCcEch10Cla2 = 1767.77
+FixeCcEch10Cla1 = 1871.31
+FixeCcEch10Cla0 = 1980.88
+
+FixeCcpEch1Cla2 = 1487.98
+FixeCcpEch1Cla1 = 1547.21
+FixeCcpEch1Cla0 = 1573.44
+
+FixeCcpEch2Cla2 = 1521.48
+FixeCcpEch2Cla1 = 1583.34
+FixeCcpEch2Cla0 = 1610.81
+
+FixeCcpEch3Cla2 = 1588.57
+FixeCcpEch3Cla1 = 1655.55
+FixeCcpEch3Cla0 = 1685.61
+
+FixeCcpEch4Cla2 = 1622.00
+FixeCcpEch4Cla1 = 1691.70
+FixeCcpEch4Cla0 = 1723.01
+
+FixeCcpEch5Cla2 = 1722.22
+FixeCcpEch5Cla1 = 1800.12
+FixeCcpEch5Cla0 = 1835.18
+
+FixeCcpEch6Cla2 = 1755.66
+FixeCcpEch6Cla1 = 1836.33
+FixeCcpEch6Cla0 = 1872.50
+
+FixeCcpEch7Cla2 = 1789.05
+FixeCcpEch7Cla1 = 1872.44
+FixeCcpEch7Cla0 = 1909.91
+
+FixeCcpEch8Cla2 = 1822.46
+FixeCcpEch8Cla1 = 1908.63
+FixeCcpEch8Cla0 = 1947.37
+
+FixeCcpEch9Cla2 = 1855.89
+FixeCcpEch9Cla1 = 1944.69
+FixeCcpEch9Cla0 = 1984.63
+
+FixeCcpEch10Cla2 = 1889.35
+FixeCcpEch10Cla1 = 1980.88
+FixeCcpEch10Cla0 = 2022.01
+
+
+
+PvHotEch1Cla5 = 10.07
+PvHotEch1Cla4 = 10.79
+PvHotEch1Cla3 = 11.17
+PvHotEch1Cla2 = 12.65
+PvHotEch1Cla1 = 14.02
+PvHotEch1Cla0 = 14.58
+
+PvHotEch2Cla5 = 10.23
+PvHotEch2Cla4 = 10.98
+PvHotEch2Cla3 = 11.37
+PvHotEch2Cla2 = 12.87
+PvHotEch2Cla1 = 14.27
+PvHotEch2Cla0 = 14.86
+
+PvHotEch3Cla5 = 11.35
+PvHotEch3Cla4 = 12.18
+PvHotEch3Cla3 = 12.61
+PvHotEch3Cla2 = 14.31
+PvHotEch3Cla1 = 15.85
+PvHotEch3Cla0 = 16.61
+
+PvHotEch4Cla5 = 11.55
+PvHotEch4Cla4 = 12.41
+PvHotEch4Cla3 = 12.85
+PvHotEch4Cla2 = 14.58
+PvHotEch4Cla1 = 16.16
+PvHotEch4Cla0 = 16.94
+
+PvHotEch5Cla5 = 12.21
+PvHotEch5Cla4 = 13.12
+PvHotEch5Cla3 = 13.59
+PvHotEch5Cla2 = 15.43
+PvHotEch5Cla1 = 17.08
+PvHotEch5Cla0 = 17.97
+
+PvHotEch6Cla5 = 12.43
+PvHotEch6Cla4 = 13.37
+PvHotEch6Cla3 = 13.83
+PvHotEch6Cla2 = 15.70
+PvHotEch6Cla1 = 17.40
+PvHotEch6Cla0 = 18.31
+
+PvHotEch7Cla5 = 12.65
+PvHotEch7Cla4 = 13.60
+PvHotEch7Cla3 = 14.07
+PvHotEch7Cla2 = 15.99
+PvHotEch7Cla1 = 17.71
+PvHotEch7Cla0 = 18.65
+
+PvHotEch8Cla5 = 12.86
+PvHotEch8Cla4 = 13.83
+PvHotEch8Cla3 = 14.32
+PvHotEch8Cla2 = 16.28
+PvHotEch8Cla1 = 18.02
+PvHotEch8Cla0 = 18.99
+
+PvHotEch9Cla5 = 13.08
+PvHotEch9Cla4 = 14.57
+PvHotEch9Cla3 = 15.08
+PvHotEch9Cla2 = 17.16
+PvHotEch9Cla1 = 18.98
+PvHotEch9Cla0 = 20.05
+
+PvHotEch10Cla5 = 13.30
+PvHotEch10Cla4 = 14.83
+PvHotEch10Cla3 = 15.35
+PvHotEch10Cla2 = 17.45
+PvHotEch10Cla1 = 19.31
+PvHotEch10Cla0 = 20.41
+
+PvCcEch1Cla2 = 16.39
+PvCcEch1Cla1 = 17.18
+PvCcEch1Cla0 = 17.99
+
+PvCcEch2Cla2 = 16.73
+PvCcEch2Cla1 = 17.56
+PvCcEch2Cla0 = 18.41
+
+PvCcEch3Cla2 = 17.42
+PvCcEch3Cla1 = 18.32
+PvCcEch3Cla0 = 19.25
+
+PvCcEch4Cla2 = 17.77
+PvCcEch4Cla1 = 18.71
+PvCcEch4Cla0 = 19.67
+
+PvCcEch5Cla2 = 18.81
+PvCcEch5Cla1 = 19.85
+PvCcEch5Cla0 = 20.92
+
+PvCcEch6Cla2 = 19.15
+PvCcEch6Cla1 = 20.23
+PvCcEch6Cla0 = 21.35
+
+PvCcEch7Cla2 = 19.50
+PvCcEch7Cla1 = 20.61
+PvCcEch7Cla0 = 21.77
+
+PvCcEch8Cla2 = 19.85
+PvCcEch8Cla1 = 21.00
+PvCcEch8Cla0 = 22.18
+
+PvCcEch9Cla2 = 20.19
+PvCcEch9Cla1 = 21.38
+PvCcEch9Cla0 = 22.61
+
+PvCcEch10Cla2 = 20.53
+PvCcEch10Cla1 = 21.76
+PvCcEch10Cla0 = 23.03
+
+PvCcpEch1Cla2 = 17.31
+PvCcpEch1Cla1 = 17.99
+PvCcpEch1Cla0 = 18.30
+
+PvCcpEch2Cla2 = 17.69
+PvCcpEch2Cla1 = 18.41
+PvCcpEch2Cla0 = 18.73
+
+PvCcpEch3Cla2 = 18.48
+PvCcpEch3Cla1 = 19.25
+PvCcpEch3Cla0 = 19.60
+
+PvCcpEch4Cla2 = 18.86
+PvCcpEch4Cla1 = 19.67
+PvCcpEch4Cla0 = 20.04
+
+PvCcpEch5Cla2 = 20.03
+PvCcpEch5Cla1 = 20.92
+PvCcpEch5Cla0 = 21.34
+
+PvCcpEch6Cla2 = 20.41
+PvCcpEch6Cla1 = 21.35
+PvCcpEch6Cla0 = 21.77
+
+PvCcpEch7Cla2 = 20.79
+PvCcpEch7Cla1 = 21.77
+PvCcpEch7Cla0 = 22.21
+
+PvCcpEch8Cla2 = 21.20
+PvCcpEch8Cla1 = 22.18
+PvCcpEch8Cla0 = 22.65
+
+PvCcpEch9Cla2 = 21.58
+PvCcpEch9Cla1 = 22.61
+PvCcpEch9Cla0 = 23.08
+
+PvCcpEch10Cla2 = 21.97
+PvCcpEch10Cla1 = 23.03
+PvCcpEch10Cla0 = 23.52
+

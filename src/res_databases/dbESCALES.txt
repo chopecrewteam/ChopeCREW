@@ -1,0 +1,225 @@
+﻿// Ce fichier doit être enregistré avec l'encodage "UTF-8" pour conserver les accents
+// Le nom des villes est celui qui apparait dans les exports HTML et PDF
+// Pays ; TimeZone ; E=Zone Euro, M=Zone MC hors Euro, L=Zone LC (pour calcul frais réels) ; Bigramme
+
+
+AJA ; Ajaccio ; France ; Europe/Paris ; E ; FR
+BES ; Brest ; France ; Europe/Paris ; E ; FR
+BIA ; Bastia ; France ; Europe/Paris ; E ; FR
+BIQ ; Biarritz ; France ; Europe/Paris ; E ; FR
+BOD ; Bordeaux ; France ; Europe/Paris ; E ; FR
+CDG ; Cdg ; France ; Europe/Paris ; E ; FR
+CFE ; Clermont-Fd. ; France ; Europe/Paris ; E ; FR
+CLY ; Calvi ; France ; Europe/Paris ; E ; FR
+FSC ; Figari ; France ; Europe/Paris ; E ; FR
+LIL ; Lille ; France ; Europe/Paris ; E ; FR
+LRT ; Lorient ; France ; Europe/Paris ; E ; FR
+LYS ; Lyon ; France ; Europe/Paris ; E ; FR
+MLH ; Mulhouse ; France ; Europe/Paris ; E ; FR
+MPL ; Montpellier ; France ; Europe/Paris ; E ; FR
+MRS ; Marseille ; France ; Europe/Paris ; E ; FR
+NCE ; Nice ; France ; Europe/Paris ; E ; FR
+NTE ; Nantes ; France ; Europe/Paris ; E ; FR
+ORY ; Ory ; France ; Europe/Paris ; E ; FR
+PGF ; Perpignan ; France ; Europe/Paris ; E ; FR
+PUF ; Pau ; France ; Europe/Paris ; E ; FR
+RNS ; Rennes ; France ; Europe/Paris ; E ; FR
+SXB ; Strasbourg ; France ; Europe/Paris ; E ; FR
+TLN ; Toulon ; France ; Europe/Paris ; E ; FR
+TLS ; Toulouse ; France ; Europe/Paris ; E ; FR
+
+DUS ; Düsseldorf ; Allemagne ; Europe/Berlin ; E ; DE
+FRA ; Francfort ; Allemagne ; Europe/Berlin ; E ; DE
+HAM ; Hambourg ; Allemagne ; Europe/Berlin ; E ; DE
+MUC ; Münich ; Allemagne ; Europe/Berlin ; E ; DE
+STR ; Stuttgart ; Allemagne ; Europe/Berlin ; E ; DE
+TXL ; Berlin ; Allemagne ; Europe/Berlin ; E ; DE
+
+LIS ; Lisbonne ; Portugal ; Europe/Lisbon ; E ; PT
+OPO ; Porto ; Portugal ; Europe/Lisbon ; E ; PT
+
+AGP ; Malaga ; Espagne ; Europe/Madrid ; E ; ES
+BCN ; Barcelone ; Espagne ; Europe/Madrid ; E ; ES
+MAD ; Madrid ; Espagne ; Europe/Madrid ; E ; ES
+PMI ; Palma ; Espagne ; Europe/Madrid ; E ; ES
+SVQ ; Séville ; Espagne ; Europe/Madrid ; E ; ES
+VLC ; Valence ; Espagne ; Europe/Madrid ; E ; ES
+ZAZ ; Saragosse ; Espagne ; Europe/Madrid ; E ; ES
+
+BLQ ; Bologne ; Italie ; Europe/Rome ; E ; IT
+FCO ; Rome ; Italie ; Europe/Rome ; E ; IT
+FLR ; Florence ; Italie ; Europe/Rome ; E ; IT
+LIN ; Milan ; Italie ; Europe/Rome ; E ; IT
+MXP ; Milan ; Italie ; Europe/Rome ; E ; IT
+NAP ; Naples ; Italie ; Europe/Rome ; E ; IT
+TRN ; Turin ; Italie ; Europe/Rome ; E ; IT
+TRS ; Trieste ; Italie ; Europe/Rome ; E ; IT
+VCE ; Venise ; Italie ; Europe/Rome ; E ; IT
+
+GVA ; Genève ; Suisse ; Europe/Zurich ; M ; CH
+ZRH ; Zürich ; Suisse ; Europe/Zurich ; M ; CH
+
+BHX ; Birmingham ; Royaume-Uni ; Europe/London ; M ; GB
+GLA ; Glasgow ; Royaume-Uni ; Europe/London ; M ; GB
+LHR ; Londres ; Royaume-Uni ; Europe/London ; M ; GB
+MAN ; Manchester ; Royaume-Uni ; Europe/London ; M ; GB
+PIK ; Glasgow ; Royaume-Uni ; Europe/London ; M ; GB
+
+DUB ; Dublin ; Irlande ; Europe/Dublin ; E ; IE
+SNN ; Shannon ; Irlande ; Europe/Dublin ; E ; IE
+
+LED ; St-Petersbourg ; Russie ; Europe/Moscow ; L ; RU
+SVO ; Moscou ; Russie ; Europe/Moscow ; L ; RU
+
+AMS ; Amsterdam ; Pays-Bas ; Europe/Amsterdam ; E ; NL
+ARN ; Stockholm ; Suède ; Europe/Stockholm ; M ; SE
+ATH ; Athènes ; Grèce ; Europe/Athens ; E ; GR
+BEG ; Belgrade ; Serbie ; Europe/Belgrade ; M ; RS
+BUD ; Budapest ; Hongrie ; Europe/Budapest ; M ; HU
+CPH ; Copenhague ; Danemark ; Europe/Copenhagen ; M ; DK
+EIN ; Eindhoven ; Pays-Bas ; Europe/Amsterdam ; E ; NL
+IST ; Istanbul ; Turquie ; Europe/Istanbul ; L ; TR
+KBP ; Kiev ; Ukraine ; Europe/Kiev ; L ; UA
+KRK ; Cracovie ; Pologne ; Europe/Warsaw ; M ; PL
+OSL ; Oslo ; Norvège ; Europe/Oslo ; M ; NO
+OTP ; Bucarest ; Roumanie ; Europe/Bucharest ; M ; RO
+PRG ; Prague ; République Tchèque ; Europe/Prague ; M ; CZ
+SOF ; Sofia ; Bulgarie ; Europe/Sofia ; M ; BG
+VIE ; Vienne ; Autriche ; Europe/Vienna ; E ; AT
+WAW ; Varsovie ; Pologne ; Europe/Warsaw ; M ; PL
+ZAG ; Zagreb ; Croatie ; Europe/Zagreb ; M ; HR
+
+AMM ; Aman ; Jordanie ; Asia/Amman ; L ; JO
+AUH ; Abou Dabi ; Emirats arabes unis ; Asia/Dubai ; L ; AE
+BAH ; Manama ; Bahreïn ; Asia/Bahrain ; L ; BH
+BEY ; Beyrouth ; Liban ; Asia/Beirut ; L ; LB
+DAM ; Damas ; Syrie ; Asia/Damascus ; L ; SY
+DMM ; Dammam ; Arabie Saoudite ; Asia/Riyadh ; L ; SA
+DXB ; Dubaï ; Emirats arabes unis ; Asia/Dubai ; L ; AE
+EVN ; Erevan ; Arménie ; Asia/Yerevan ; L ; AM
+GYD ; Baku ; Azerbaïdjan ; Asia/Baku ; L ; AZ
+JED ; Djeda ; Arabie Saoudite ; Asia/Riyadh ; L ; SA
+KWI ; Koweït ; Koweït ; Asia/Kuwait ; L ; KW
+RUH ; Riyad ; Arabie Saoudite ; Asia/Riyadh ; L ; SA
+TAS ; Tachkent ; Ouzbékistan ; Asia/Tashkent ; L ; UZ
+THR ; Téhéran ; Iran ; Asia/Tehran ; L ; IR
+IKA ; Téhéran ; Iran ; Asia/Tehran ; L ; IR
+TLV ; Tel-Aviv ; Israël ; Asia/Tel_Aviv ; L ; IL
+
+BEJ ; Beijing ; Chine ; Asia/Shanghai ; L ; CN
+BKK ; Bangkok ; Thailande ; Asia/Bangkok ; L ; TH
+BLR ; Bangalore ; Inde ; Asia/Calcutta ; L ; IN
+BOM ; Bombay ; Inde ; Asia/Calcutta ; L ; IN
+CAN ; Guangzhou ; Chine ; Asia/Shanghai ; L ; CN
+CGK ; Jakarta ; Indonésie ; Asia/Jakarta ; L ; ID
+DAC ; Dhaka ; Bangladesh ; Asia/Dacca ; L ; BD
+DEL ; Delhi ; Inde ; Asia/Calcutta ; L ; IN
+HAN ; Hanoï ; Vietnâm ; Asia/Ho_Chi_Minh ; L ; VN
+HND ; Tokyo ; Japon ; Asia/Tokyo ; L ; JP
+HKG ; Hong-Kong ; Chine ; Asia/Shanghai ; L ; CN
+ICN ; Séoul ; Corée du Sud ; Asia/Seoul ; L ; KR
+KIX ; Osaka ; Japon ; Asia/Tokyo ; L ; JP
+KUL ; Kuala Lumpur ; Malaisie ; Asia/Kuala_Lumpur ; L ; MY
+MAA ; Chennai ; Inde ; Asia/Calcutta ; L ; IN
+MNL ; Manille ; Philippines ; Asia/Manila ; L ; PH
+NRT ; Tokyo ; Japon ; Asia/Tokyo ; L ; JP
+PEK ; Beijing ; Chine ; Asia/Shanghai ; L ; CN
+PNH ; Phnom Penh ; Cambodge ; Asia/Phnom_Penh ; L ; KH
+PVG ; Shanghaï ; Chine ; Asia/Shanghai ; L ; CN
+SGN ; Saïgon ; Vietnâm ; Asia/Ho_Chi_Minh ; L ; VN
+SHA ; Shanghaï ; Chine ; Asia/Shanghai ; L ; CN
+SIN ; Singapour ; République de Singapour ; Asia/Singapore ; L ; SG
+WUH ; Wuhan ; Chine ; Asia/Shanghai ; L ; CN
+
+ATL ; Atlanta ; Etats-Unis ; America/New_York ; L ; US
+BOS ; Boston ; Etats-Unis ; America/New_York ; L ; US
+CVG ; Cincinnati ; Etats-Unis ; America/New_York ; L ; US
+DFW ; Dallas ; Etats-Unis ; America/Chicago ; L ; US
+DTW ; Détroit ; Etats-Unis ; America/Detroit ; L ; US
+EWR ; New-York ; Etats-Unis ; America/New_York ; L ; US
+IAD ; Washington ; Etats-Unis ; America/New_York ; L ; US
+IAH ; Houston ; Etats-Unis ; America/Chicago ; L ; US
+JFK ; New-York ; Etats-Unis ; America/New_York ; L ; US
+LAX ; Los Angeles ; Etats-Unis ; America/Los_Angeles ; L ; US
+MCO ; Orlando ; Etats-Unis ; America/New_York ; L ; US
+MIA ; Miami ; Etats-Unis ; America/New_York ; L ; US
+MSP ; Minneapolis ; Etats-Unis ; America/Chicago ; L ; US
+ORD ; Chicago ; Etats-Unis ; America/Chicago ; L ; US
+PHL ; Philadelphie ; Etats-Unis ; America/New_York ; L ; US
+SEA ; Seattle ; Etats-Unis ; America/Los_Angeles ; L ; US
+SFO ; San Francisco ; Etats-Unis ; America/Los_Angeles ; L ; US
+
+YUL ; Montréal ; Canada ; America/Montreal ; L ; CA
+YVR ; Vancouver ; Canada ; America/Vancouver ; L ; CA
+YYZ ; Toronto ; Canada ; America/Toronto ; L ; CA
+
+HAV ; La Havane ; Cuba ; America/Havana ; L ; CU
+PAP ; Port au Prince ; Haïti ; America/Port-au-Prince ; L ; HT
+PUJ ; Punta Cana ; République Dominicaine ; America/Santo_Domingo ; L ; DO
+SDQ ; Saint Domingue ; République Dominicaine ; America/Santo_Domingo ; L ; DO
+
+BOG ; Bogota ; Colombie ; America/Bogota ; L ; CO
+BSB ; Brasilia ; Brésil ; Brazil/East ; L ; BR
+CCS ; Caracas ; Vénézuela ; America/Caracas ; L ; VE
+CUN ; Cancun ; Mexique ; America/Cancun ; L ; MX
+EZE ; Buenos Aires ; Argentine ; America/Buenos_Aires ; L ; AR
+GDL ; Guadalajara ; Mexique ; America/Mexico_City ; L ; MX
+GIG ; Rio de Janeiro ; Brésil ; Brazil/East ; L ; BR
+GRU ; Sao Paulo ; Brésil ; Brazil/East ; L ; BR
+LIM ; Lima ; Pérou ; America/Lima ; L ; PE
+MEX ; Mexico ; Mexique ; America/Mexico_City ; L ; MX
+MVD ; Montevideo ; Uruguay ; America/Montevideo ; L ; UY
+SCL ; Santiago ; Chili ; America/Santiago ; L ; CL
+PTY ; Panama City ; Panama ; America/Panama ; L ; PA
+SJO ; San José ; Costa Rica ; America/Costa_Rica ; L ; CR
+
+ABJ ; Abidjan ; Côte d'Ivoire ; Africa/Abidjan ; L ; CI
+ACC ; Accra ; Ghana ; Africa/accra ; L ; GH
+ALG ; Alger ; Algérie ; Africa/Algiers ; M ; DZ
+BGF ; Bangui ; République Centrafricaine ; Africa/Bangui ; L ; CF
+BKO ; Bamako ; Mali ; Africa/Bamako ; L ; ML
+BSG ; Bata ; Guinée Equatoriale ; Africa/Malabo ; L ; GQ
+BZV ; Brazzaville ; Congo ; Africa/Brazzaville ; L ; CG
+CAI ; Le Caire ; Egypte ; Africa/Cairo ; L ; EG
+CKY ; Conakry ; Guinée ; Africa/Conakry ; L ; GN
+CMN ; Casablanca ; Maroc ; Africa/Casablanca ; M ; MA
+COO ; Cotonou ; Bénin ; Africa/Porto-Novo ; L ; BJ
+CPT ; Cape Town ; Afrique du Sud ; Africa/Johannesburg ; L ; ZA
+DKR ; Dakar ; Sénégal ; Africa/Dakar ; L ; SN
+DLA ; Douala ; Cameroun ; Africa/Douala ; L ; CM
+FIH ; Kinshasa ; République démocratique du Congo ; Africa/Kinshasa ; L ; CD
+FNA ; Freetown ; Sierra Leone ; Africa/Freetown ; L ; SL
+JIB ; Djibouti ; Djibouti ; Africa/Djibouti ; L ; DJ
+JNB ; Johannesbourg ; Afrique du Sud ; Africa/Johannesburg ; L ; ZA
+LAD ; Luanda ; Angola ; Africa/Luanda ; L ; AO
+LBV ; Libreville ; Gabon ; Africa/Libreville ; L ; GA
+LFW ; Lomé ; Togo ; Africa/Lome ; L ; TG
+LOS ; Lagos ; Nigeria ; Africa/Lagos ; L ; NG
+NBO ; Nairobi ; Kenya ; Africa/Nairobi ; L ; KE
+NDJ ; N'Djamena ; Tchad ; Africa/Ndjamena ; L ; TD
+NIM ; Niamey ; Niger ; Africa/Niamey ; L ; NE
+NKC ; Nouakchott ; Mauritanie ; Africa/Nouakchott ; L ; MR
+NSI ; Yaoundé ; Cameroun ; Africa/Douala ; L ; CM
+OUA ; Ouagadougou ; Burkina Faso ; Africa/Ouagadougou ; L ; BF
+ORN ; Oran ; Algérie ; Africa/Algiers ; M ; DZ
+PHC ; Port Harcourt ; Nigeria ; Africa/Lagos ; L ; NG
+PNR ; Pointe Noire ; Congo ; Africa/Brazzaville ; L ; CG
+POG ; Port-Gentil ; Gabon ; Africa/Libreville ; L ; GA
+RAK ; Marrakech ; Maroc ; Africa/Casablanca ; M ; MA
+RBA ; Rabat ; Maroc ; Africa/Casablanca ; M ; MA
+ROB ; Monrovia ; Libéria ; Africa/Monrovia ; L ; LR
+SSG ; Malabo ; Guinée Equatoriale ; Africa/Malabo ; L ; GQ
+TIP ; Tripoli ; Libye ; Africa/Tripoli ; L ; LY
+TNR ; Antananarivo ; Madagascar ; Indian/Antananarivo ; L ; MG
+TUN ; Tunis ; Tunisie ; Africa/Tunis ; M ; TN
+YAO ; Yaoundé ; Cameroun ; Africa/Douala ; L ; CM
+
+PTP ; Pointe-à-Pitre ; France ; America/Guadeloupe ; E ; FR
+SXM ; Saint-Martin ; France ; America/Marigot ; E ; FR
+CAY ; Cayenne ; France ; America/Cayenne ; E ; FR
+FDF ; Fort de France ; France ; America/Martinique ; E ; FR
+PPT ; Papeete ; France ; Pacific/Tahiti ; L ; FR
+RUN ; La Réunion ; France ; Indian/Reunion ; E ; FR
+MRU ; Ile Maurice ; Maurice ; Indian/Mauritius ; L ; MU
+MLE ; Malé ; Maldives ; Indian/Maldives ; L ; MV
+
