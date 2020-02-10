@@ -48,7 +48,7 @@ public class ChopeCrew
     public static FileDataStoreFactory dataStoreFactory;
     public static Calendar client;
     public static final String version = "3.8";
-    public static final int buildNumber = 20200208;
+    public static final int buildNumber = 20200210;
     public static boolean premiereUtilisationVersion;
     
     static {

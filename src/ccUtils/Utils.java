@@ -186,7 +186,7 @@ public class Utils
         final SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
         Date date = new Date(0L);
         try {
-            date = sdf.parse(String.valueOf(20200202));
+            date = sdf.parse(String.valueOf(build));
         }
         catch (ParseException e) {
             e.printStackTrace();

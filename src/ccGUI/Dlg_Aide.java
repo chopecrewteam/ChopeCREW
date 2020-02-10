@@ -144,7 +144,7 @@ public class Dlg_Aide extends JDialog
             this.labDatePublicationValue.setFont(new Font("Tahoma", 0, 16));
             this.labDatePublicationValue.setHorizontalAlignment(4);
             this.labDatePublicationValue.setHorizontalTextPosition(4);
-            this.labDatePublicationValue.setText(Utils.convertBuildToDate(20200202));
+            this.labDatePublicationValue.setText(Utils.convertBuildToDate(chopeCrew.ChopeCrew.buildNumber));
             final GridBagConstraints gbc_labDatePublicationValue = new GridBagConstraints();
             gbc_labDatePublicationValue.anchor = 13;
             gbc_labDatePublicationValue.insets = new Insets(0, 0, 5, 5);
