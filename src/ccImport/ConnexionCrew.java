@@ -778,7 +778,7 @@ public class ConnexionCrew extends Observable
                     if (response.getStatusLine().getStatusCode() == 200) {
                         final InputStream is = response.getEntity().getContent();
                         final int build = Integer.parseInt(Utils.streamToString(is, "ISO-8859-1").trim());
-                        if (20200202 < build) {
+                        if (ChopeCrew.buildNumber < build) {
                             System.out.println("Nouvelle version disponible");
                             JOptionPane.showMessageDialog(ChopeCrew.mf, "Une nouvelle version de ChopeCREW est disponible !\n            Rendez-vous sur http://chopecrew.free.fr", "ChopeCREW vous informe", -1);
                         }
